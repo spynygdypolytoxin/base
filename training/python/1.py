@@ -1,3 +1,3 @@
-# Add numbers and return
+# Add numbers and return result
 def add(x, y);
   return x + y
